@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
+<ADOXML version="3.1" date="22.12.2020" time="00:00" database="adoxxdb" username="fha" adoversion="Version 5.1">
+<MODELS>
+<MODEL id="mod.10922" name="Certificate mod.10922" version="" modeltype="Certificate" libtype="bp" applib="ADOxx 1.5 Dynamic MM-UE5">
+<MODELATTRIBUTES>
+    <ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Author" type="STRING">fha</ATTRIBUTE>
+</MODELATTRIBUTES>
+<INSTANCE id="obj.11138" class="Institution" name="Institution-11138">
+    <ATTRIBUTE name="InstitutionID" type="STRING">FernUni.ch</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:2cm y:188cm index:135</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11303" class="Course" name="Course-11303">
+    <ATTRIBUTE name="CourseID" type="STRING">C-4nTKf3QR6p</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:8cm y:284cm index:202</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11370" class="Student" name="Student-11370">
+    <ATTRIBUTE name="StudentID" type="STRING">S-44-344-232</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:323cm index:229</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11372" class="Grade" name="Grade-11372">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-59%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:323cm index:230</ATTRIBUTE>
+</INSTANCE>
+<CONNECTOR id="con.11304" class="OfferCourse">
+    <FROM instance="Institution-11138" class="Institution"></FROM>
+    <TO instance="Course-11303" class="Course"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11371" class="InscribedIn">
+    <FROM instance="Course-11303" class="Course"></FROM>
+    <TO instance="Student-11370" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11373" class="StudentGrade">
+    <FROM instance="Student-11370" class="Student"></FROM>
+    <TO instance="Grade-11372" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11374" class="CourseGrade">
+    <FROM instance="Course-11303" class="Course"></FROM>
+    <TO instance="Grade-11372" class="Grade"></TO>
+</CONNECTOR>
+</MODEL>
+</MODELS>
+</ADOXML>
