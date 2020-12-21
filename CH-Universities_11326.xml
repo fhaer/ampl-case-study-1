@@ -2,7 +2,7 @@
 <!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
 <ADOXML version="3.1" date="22.12.2020" time="00:00" database="adoxxdb" username="fha" adoversion="Version 5.1">
 <MODELS>
-<MODEL id="mod.11326" name="Certificate mod.11326 x" version="" modeltype="Certificate" libtype="bp" applib="ADOxx 1.5 Dynamic MM-UE5">
+<MODEL id="mod.11326" name="Certificate mod.11326" version="" modeltype="Certificate" libtype="bp" applib="ADOxx 1.5 Dynamic MM-UE5">
 <MODELATTRIBUTES>
     <ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
     <ATTRIBUTE name="Author" type="STRING">fha</ATTRIBUTE>
