@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
+<ADOXML version="3.1" date="22.12.2020" time="00:00" database="adoxxdb" username="fha" adoversion="Version 5.1">
+<MODELS>
+<MODEL id="mod.10876" name="Certificate mod.10876" version="" modeltype="Certificate" libtype="bp" applib="ADOxx 1.5 Dynamic MM-UE5">
+<MODELATTRIBUTES>
+    <ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Author" type="STRING">fha</ATTRIBUTE>
+</MODELATTRIBUTES>
+<INSTANCE id="obj.11073" class="Student" name="Student-11073">
+    <ATTRIBUTE name="StudentID" type="STRING">S-63-363-375</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:149cm index:109</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11075" class="Grade" name="Grade-11075">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-72%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:149cm index:110</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11078" class="Student" name="Student-11078">
+    <ATTRIBUTE name="StudentID" type="STRING">S-63-956-736</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:152cm index:111</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11080" class="Grade" name="Grade-11080">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-96%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:152cm index:112</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11083" class="Student" name="Student-11083">
+    <ATTRIBUTE name="StudentID" type="STRING">S-44-429-481</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:155cm index:113</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11085" class="Grade" name="Grade-11085">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-63%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:155cm index:114</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11088" class="Student" name="Student-11088">
+    <ATTRIBUTE name="StudentID" type="STRING">S-90-728-455</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:158cm index:115</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11090" class="Grade" name="Grade-11090">
+    <ATTRIBUTE name="Result" type="STRING">FAILED-36%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:158cm index:116</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11093" class="Student" name="Student-11093">
+    <ATTRIBUTE name="StudentID" type="STRING">S-91-879-760</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:161cm index:117</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11095" class="Grade" name="Grade-11095">
+    <ATTRIBUTE name="Result" type="STRING">FAILED-40%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:161cm index:118</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11098" class="Student" name="Student-11098">
+    <ATTRIBUTE name="StudentID" type="STRING">S-42-324-513</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:164cm index:119</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11100" class="Grade" name="Grade-11100">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-80%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:164cm index:120</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11103" class="Student" name="Student-11103">
+    <ATTRIBUTE name="StudentID" type="STRING">S-90-750-342</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:167cm index:121</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11105" class="Grade" name="Grade-11105">
+    <ATTRIBUTE name="Result" type="STRING">FAILED-29%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:167cm index:122</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11108" class="Student" name="Student-11108">
+    <ATTRIBUTE name="StudentID" type="STRING">S-95-935-960</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:170cm index:123</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11110" class="Grade" name="Grade-11110">
+    <ATTRIBUTE name="Result" type="STRING">FAILED-46%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:170cm index:124</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11113" class="Student" name="Student-11113">
+    <ATTRIBUTE name="StudentID" type="STRING">S-88-572-968</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:173cm index:125</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11115" class="Grade" name="Grade-11115">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-93%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:173cm index:126</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11118" class="Student" name="Student-11118">
+    <ATTRIBUTE name="StudentID" type="STRING">S-37-660-878</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:176cm index:127</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11120" class="Grade" name="Grade-11120">
+    <ATTRIBUTE name="Result" type="STRING">FAILED-17%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:176cm index:128</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11123" class="Student" name="Student-11123">
+    <ATTRIBUTE name="StudentID" type="STRING">S-54-417-540</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:179cm index:129</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11125" class="Grade" name="Grade-11125">
+    <ATTRIBUTE name="Result" type="STRING">FAILED-29%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:179cm index:130</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11128" class="Student" name="Student-11128">
+    <ATTRIBUTE name="StudentID" type="STRING">S-13-485-308</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:182cm index:131</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11130" class="Grade" name="Grade-11130">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-88%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:182cm index:132</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11133" class="Student" name="Student-11133">
+    <ATTRIBUTE name="StudentID" type="STRING">S-96-643-105</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:185cm index:133</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11135" class="Grade" name="Grade-11135">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-58%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:185cm index:134</ATTRIBUTE>
+</INSTANCE>
+<CONNECTOR id="con.11074" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11073" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11076" class="StudentGrade">
+    <FROM instance="Student-11073" class="Student"></FROM>
+    <TO instance="Grade-11075" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11077" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11075" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11079" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11078" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11081" class="StudentGrade">
+    <FROM instance="Student-11078" class="Student"></FROM>
+    <TO instance="Grade-11080" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11082" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11080" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11084" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11083" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11086" class="StudentGrade">
+    <FROM instance="Student-11083" class="Student"></FROM>
+    <TO instance="Grade-11085" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11087" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11085" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11089" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11088" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11091" class="StudentGrade">
+    <FROM instance="Student-11088" class="Student"></FROM>
+    <TO instance="Grade-11090" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11092" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11090" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11094" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11093" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11096" class="StudentGrade">
+    <FROM instance="Student-11093" class="Student"></FROM>
+    <TO instance="Grade-11095" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11097" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11095" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11099" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11098" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11101" class="StudentGrade">
+    <FROM instance="Student-11098" class="Student"></FROM>
+    <TO instance="Grade-11100" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11102" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11100" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11104" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11103" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11106" class="StudentGrade">
+    <FROM instance="Student-11103" class="Student"></FROM>
+    <TO instance="Grade-11105" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11107" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11105" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11109" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11108" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11111" class="StudentGrade">
+    <FROM instance="Student-11108" class="Student"></FROM>
+    <TO instance="Grade-11110" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11112" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11110" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11114" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11113" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11116" class="StudentGrade">
+    <FROM instance="Student-11113" class="Student"></FROM>
+    <TO instance="Grade-11115" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11117" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11115" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11119" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11118" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11121" class="StudentGrade">
+    <FROM instance="Student-11118" class="Student"></FROM>
+    <TO instance="Grade-11120" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11122" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11120" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11124" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11123" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11126" class="StudentGrade">
+    <FROM instance="Student-11123" class="Student"></FROM>
+    <TO instance="Grade-11125" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11127" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11125" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11129" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11128" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11131" class="StudentGrade">
+    <FROM instance="Student-11128" class="Student"></FROM>
+    <TO instance="Grade-11130" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11132" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11130" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11134" class="InscribedIn">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Student-11133" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11136" class="StudentGrade">
+    <FROM instance="Student-11133" class="Student"></FROM>
+    <TO instance="Grade-11135" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11137" class="CourseGrade">
+    <FROM instance="Course-11071" class="Course"></FROM>
+    <TO instance="Grade-11135" class="Grade"></TO>
+</CONNECTOR>
+</MODEL>
+</MODELS>
+</ADOXML>

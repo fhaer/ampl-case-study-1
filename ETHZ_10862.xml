@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
+<ADOXML version="3.1" date="22.12.2020" time="00:00" database="adoxxdb" username="fha" adoversion="Version 5.1">
+<MODELS>
+<MODEL id="mod.10862" name="Certificate mod.10862" version="" modeltype="Certificate" libtype="bp" applib="ADOxx 1.5 Dynamic MM-UE5">
+<MODELATTRIBUTES>
+    <ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Author" type="STRING">fha</ATTRIBUTE>
+</MODELATTRIBUTES>
+<INSTANCE id="obj.11065" class="Student" name="Student-11065">
+    <ATTRIBUTE name="StudentID" type="STRING">S-14-935-409</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:14cm y:146cm index:105</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.11067" class="Grade" name="Grade-11067">
+    <ATTRIBUTE name="Result" type="STRING">PASSED-82%</ATTRIBUTE>
+    <ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+    <ATTRIBUTE name="Position" type="STRING">NODE x:20cm y:146cm index:106</ATTRIBUTE>
+</INSTANCE>
+<CONNECTOR id="con.11066" class="InscribedIn">
+    <FROM instance="Course-11063" class="Course"></FROM>
+    <TO instance="Student-11065" class="Student"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11068" class="StudentGrade">
+    <FROM instance="Student-11065" class="Student"></FROM>
+    <TO instance="Grade-11067" class="Grade"></TO>
+</CONNECTOR>
+<CONNECTOR id="con.11069" class="CourseGrade">
+    <FROM instance="Course-11063" class="Course"></FROM>
+    <TO instance="Grade-11067" class="Grade"></TO>
+</CONNECTOR>
+</MODEL>
+</MODELS>
+</ADOXML>
